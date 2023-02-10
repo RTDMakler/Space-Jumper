@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce4cd6d178466284d9cff49283a2ef7b, type: 3}
+  m_Name: PlanetDB
+  m_EditorClassIdentifier: 
+  character:
+  - characterName: Earth
+    characterSprite: {fileID: 21300000, guid: bdd4797439180b04383b0e2554ed8e17, type: 3}
+  - characterName: Ice
+    characterSprite: {fileID: 21300000, guid: f9ced991e94709f49ab94633343527c6, type: 3}
+  - characterName: Mars2
+    characterSprite: {fileID: 21300000, guid: 3a133f6c7592cc54787ca6c93ee54ce9, type: 3}
+  - characterName: Sun
+    characterSprite: {fileID: 21300000, guid: 6d83e88283aa8994a9dbaf2188e5d78e, type: 3}
+  - characterName: Mars
+    characterSprite: {fileID: 21300000, guid: 115ec669fbe08744b8f8be3500adc81a, type: 3}
+  - characterName: Moon
+    characterSprite: {fileID: 21300000, guid: 6d69309f011a9db4b872cb4a7dbfbe87, type: 3}
